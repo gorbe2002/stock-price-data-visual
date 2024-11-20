@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stock-price-data-visual/static/css/main.f6a8e618.css",
+    "main.js": "/stock-price-data-visual/static/js/main.820525a1.js",
+    "index.html": "/stock-price-data-visual/index.html",
+    "main.f6a8e618.css.map": "/stock-price-data-visual/static/css/main.f6a8e618.css.map",
+    "main.820525a1.js.map": "/stock-price-data-visual/static/js/main.820525a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6a8e618.css",
+    "static/js/main.820525a1.js"
+  ]
+}
