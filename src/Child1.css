@@ -1,0 +1,39 @@
+.customizable {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    gap: 20px;
+}
+
+.company, .month {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.companyOptions {
+    align-items: center;
+    gap: 4px;
+}
+
+.graph {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    overflow: hidden;
+}
+
+.tooltip {
+    position: absolute;
+    visibility: hidden;
+    background-color: rgba(37, 34, 34, 0.849);
+    color: white;
+    padding: 8px;
+    border-radius: 4px;
+    pointer-events: none;
+    font-size: 12px;
+    z-index: 10;
+}
